@@ -1,0 +1,4 @@
+Konten yang akan ada di youtube : 
+- Dasar Query MySQL di CLI
+- Dasar Javascript
+- Javascript DOM
