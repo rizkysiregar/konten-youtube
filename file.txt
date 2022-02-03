@@ -1,7 +1,5 @@
 Konten yang akan ada di youtube : 
-- Dasar Query MySQL di CLI
-- Dasar Javascript
-- Javascript DOM
+
 
 - Dasar Pemprograman Dengan Java
 - Dasar Kotlin
